@@ -101,11 +101,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #f24088;
+  color: #0067b1;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #d70f60;
+    color: #003a65;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -4013,7 +4013,7 @@ html {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 36px;
     height: 3px;
-    background-color: #f24088;
+    background-color: #0067b1;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -4049,7 +4049,7 @@ html {
     transform: translate3d(0, -20px, 0) rotate(-90deg); }
 
 a {
-  color: #f24088; }
+  color: #0067b1; }
 
 p {
   line-height: 26px;
@@ -4099,7 +4099,7 @@ ol {
     flex: 1 0 0; }
 
 .header {
-  color: #f24088;
+  color: #0067b1;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -4119,7 +4119,7 @@ ol {
   position: static; }
 
 .footer {
-  background: #f24088;
+  background: #0067b1;
   padding-top: 15px;
   padding-bottom: 15px; }
   .footer .footer-inner {
@@ -4176,7 +4176,7 @@ ol {
             height: 40px;
             padding: 10px 8px 10px 8px; } }
 .sub-footer {
-  background: #ef106a;
+  background: #00497e;
   color: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px; }
@@ -4237,7 +4237,7 @@ ol {
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: #f24088; }
+        color: #0067b1; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline; }
       .main-menu > ul > li.active > a {
@@ -4249,7 +4249,7 @@ ol {
 
 .main-menu-mobile {
   position: fixed;
-  background: #f24088;
+  background: #0067b1;
   top: 0;
   left: 0;
   width: 100%;
@@ -4326,7 +4326,7 @@ ol {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #f24088; }
+    background: #0067b1; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -4340,7 +4340,7 @@ ol {
   height: 40px;
   line-height: 40px;
   padding: 0 14px;
-  background: #f24088;
+  background: #0067b1;
   border-radius: 4px;
   font-size: 14px;
   font-weight: normal;
@@ -4352,7 +4352,7 @@ ol {
   transition: all 0.15s ease; }
   .button:hover {
     color: #ffffff;
-    background-color: #f570a6;
+    background-color: #0085e4;
     transform: translateY(-1px);
     text-decoration: none; }
 
@@ -4391,7 +4391,7 @@ ol {
   .call strong {
     font-weight: bold; }
   .call svg {
-    fill: white;
+    fill: #7ec9ff;
     position: absolute;
     bottom: -9px;
     right: 0;
@@ -4495,7 +4495,7 @@ ol {
 .content blockquote {
   padding: 0 1em;
   color: #5C5A5A;
-  border-left: 0.25em solid #f24088; }
+  border-left: 0.25em solid #0067b1; }
 
 .intro {
   display: flex;
@@ -4587,7 +4587,7 @@ ol {
     transform: skewY(-5deg); }
 
 .strip-primary {
-  background-color: #f24088; }
+  background-color: #0067b1; }
 
 .strip-diagonal-right {
   margin-top: -100px;

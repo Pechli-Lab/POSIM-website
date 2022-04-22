@@ -1,4 +1,7 @@
 ---
+intro_image: images/team/partners.JPG
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 title: About POSIM
 ---
 
@@ -6,4 +9,4 @@ Each year in Ontario about 400 new pediatric cancer cases are diagnosed. Clinici
 
 The Pediatric Oncology Simulation Model (POSIM) is an online web application that hosts decision analytic models and disease models. POSIM is intended primarily to guide clinical and policy decisions in Ontario and will inevitably be of use to other provinces and will be designed in such a way that is easily expandable to other jurisdictions.
 
-Access POSIM [here](https://pechlilab.shinyapps.io/POSIM1/). 
+[Access POSIM](https://pechlilab.shinyapps.io/POSIM1/) 

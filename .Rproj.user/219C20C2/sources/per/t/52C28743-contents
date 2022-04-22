@@ -1,0 +1,56 @@
+baseURL: https://posim.netlify.app/
+languageCode: en-us
+title: POSIM
+theme: hugo-serif-theme
+module:
+  hugoVersion:
+    extended: yes
+    min: 0.55.0
+params:
+  colors:
+    black: '#2f2f41'
+    grey: '#5C5A5A'
+    primary: '#0067b1'
+    white: '#ffffff'
+    white_offset: '#f6f7ff'
+  fonts:
+    base: Source Sans Pro
+    google_fonts: https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap
+    heading: Playfair Display
+  footer:
+    copyright_text: Developed by <a class="zerostatic" href="https://www.sickkids.ca">https://www.sickkids.ca</a>
+  google_analytics_id: ''
+  google_tag_manager_id: ''
+  homepage:
+    show_contact_box: yes
+    show_services_button: no
+  logo:
+    alt: POSIM
+    desktop: images/logo/logo.PNG
+    desktop_height: 36px
+    mobile: images/logo/logo.PNG
+    mobile_height: 36px
+  seo:
+    meta_og_image: https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png
+    meta_twitter_creator: '@DARTHworkgroup'
+    meta_twitter_site: '@DARTHworkgroup'
+  team:
+    summary_large_truncate: 120
+menu:
+  footer:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Contact
+      url: /contact/
+      weight: 2
+  main:
+    - name: Team
+      url: /team/
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Contact
+      url: /contact/
+      weight: 4
