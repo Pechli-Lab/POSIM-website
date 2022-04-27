@@ -48,9 +48,9 @@ menu:
     - name: Team
       url: /team/
       weight: 3
-    - name: About
-      url: /about/
-      weight: 2
+    # - name: About
+    #   url: /about/
+    #   weight: 2
     - name: Contact
       url: /contact/
       weight: 4
