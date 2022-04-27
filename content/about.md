@@ -5,8 +5,10 @@ intro_image_hide_on_mobile: false
 title: About POSIM
 ---
 
-Each year in Ontario about 400 new pediatric cancer cases are diagnosed. Clinicians, scientists, and policy makers face difficult decisions on what is the most effective and affordable way to manage and screen for these cancers. Decision analytic models that can inform such important decisions through the combined use of decision theory and mathematical simulation modeling are useful for this purpose. However, such decision models are often embedded in programming software which make them difficult to access and use. The challenge is making pediatric cancer models public and easily usable. The POSIM team accepted this challenge on your behalf.
+POSIM is an online web application that hosts decision analytic models in the pediatric oncology space. These models were developed at the Hospital for Sick Children through a collaborative effort of clinicians, health economists, statisticians and decision modelers.  POSIM is a dynamic platform and will be updated as more models are developed
 
-The Pediatric Oncology Simulation Model (POSIM) is an online web application that hosts decision analytic models and disease models. POSIM is intended primarily to guide clinical and policy decisions in Ontario and will inevitably be of use to other provinces and will be designed in such a way that is easily expandable to other jurisdictions.
+POSIM is funded primarily through an Ontario Early Researcher Award (Awarded to Petros Pechlivanoglou). The models included in POSIM have been developed with funding from the Canadian Institute for Health Research  (CIHR), C17, Ontario Institute of Cancer Research and Genome Canada.
+
+The models in POSIM were developed using the  open-source software R. The code for each model can be accessed through their corresponding github repository (can be found in each model’s description)
 
 [Access POSIM](https://pechlilab.shinyapps.io/POSIM1/) 
