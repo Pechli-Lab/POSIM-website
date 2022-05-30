@@ -1,0 +1,7 @@
+"0","myfunction <- function(deposit_value) {"
+"0","  log_odds <- -2.076565 + 0.135851 * deposit_value"
+"0","  prob <- exp(-2.076565 + 0.135851*deposit_value) / (1 + exp(-2.076565 + 0.135851*deposit_value))"
+"0","  return(list(deposit_value = deposit_value,"
+"0","              log_odds = log_odds,"
+"0","              prob = prob))"
+"0","}"

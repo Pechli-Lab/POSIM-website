@@ -9,3 +9,4 @@ title: Team
 
 Stationed within the SickKids Research Institute and working with a team of world-renowned pediatric oncologists and clinical scientists, content experts and policy makers, we strive to make POSIM possible.
 
+This project has been financially supported by an Ontario Early Researcher Award ER18-14-011.
